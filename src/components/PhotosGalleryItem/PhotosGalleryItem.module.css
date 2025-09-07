@@ -12,3 +12,7 @@
   border-radius: 16px;
   overflow: hidden;
 }
+
+img {
+  cursor: pointer;
+}
